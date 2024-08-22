@@ -1,9 +1,11 @@
 # vengeance spammer
 # IF YOURE TAKING PARTS OF THE CODE PLEASE GIVE CREDIT TO JINX
 ## an small but effective discord multi token spammer with support for webhook spamming
+
 ## Demo Video
 
-![Demo Video](https://youtu.be/KR0lnb_JCx0)
+[Watch the demo on YouTube](https://youtu.be/KR0lnb_JCx0)
+
 ## requires files to run vengeance spammer:
 ```
 tokens.txt text.txt
