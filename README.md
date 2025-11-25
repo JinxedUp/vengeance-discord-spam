@@ -1,3 +1,13 @@
+# Proof of concept, please do not use this
+
+.
+
+.
+
+.
+
+.
+
 # vengeance spammer
 IF YOURE TAKING PARTS OF THE CODE PLEASE GIVE CREDIT TO JINX
 
